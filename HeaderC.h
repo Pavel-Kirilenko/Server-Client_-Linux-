@@ -3,8 +3,6 @@
 #include <map>
 #include <vector>
 
-//using namespace std; // Без данной строчки код не компилируется
-
 void userReg(std::string& curName, std::string& curPassWord);  // enter user's data while registеring or loggin in
 
 class Chat
